@@ -45,5 +45,3 @@ Server will start at: http://localhost:3000
 #### UI tests
 - to run: `npm run ui-test`
 - note: dev server must be started by running `npm run dev` beforehand
-
-#### That's all there is
